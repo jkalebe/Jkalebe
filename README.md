@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+  Graduado em Engenharia da Computação, pela UFPA. Atuo como <strong>desenvolvedor android</strong>.<br>
+  Deste então, dedico 4 horas de estudo por dia. É a área que gosto e acredito que estou no caminho certo!
 
 <p align="left">
   🦄 Linguagens: <strong>Java, Kotlin, HTML, CSS, JS</strong>
@@ -14,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se voce deseja bater um papo comigo, não hesite em me enviar uma mensagem! ⤵️
 </p>
 
 <p align="left">
